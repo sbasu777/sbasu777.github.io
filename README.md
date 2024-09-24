@@ -4,6 +4,8 @@ This guide provides step-by-step instructions to optimize the machine learning m
 
 - **4x NVIDIA L40S GPUs**
 - **8x NVIDIA A100 40GB GPUs**
+- **8x NVIDIA A100 80GB GPUs**
+- **8x NVIDIA H100 40GB GPUs**
 
 By following these steps, you can efficiently leverage the computational power of these GPUs and compare their performance.
 
